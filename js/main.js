@@ -6,6 +6,7 @@ import {setFormValue, submitSignUpForm, validateEmail, validatePassword, getVali
 // Предлагаю "поиграться" с частями кода ниже, чтобы познакомиться с JS
 // Получаем элемент и меняем его класс, который определеён в библиотеке стилей materialize
 
+
 //const password = document.getElementById('password');
 //password.classList.add("valid")
 //password.classList.remove("valid")
